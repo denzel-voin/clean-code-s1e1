@@ -4,14 +4,11 @@ body {
     color: #333;
     font-family: Lato, sans-serif;
 }
-.header__wrapper {
+.header {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
-}
-.header__wrapper img {
-    width: 100%;
 }
 .header__link {
     font-family: fantasy, cursive;
@@ -22,7 +19,7 @@ body {
 }
 
 @media (max-width:768px) {
-.header__wrapper { text-align: center;
+.header { text-align: center;
 }
 }
 .main__page {
