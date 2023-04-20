@@ -27,12 +27,12 @@ body {
     width: 500px;
     margin: 0 auto 0;
 }
-.task {
+.main__add-item_task {
     width: 56%;
     display: inline-block;
     flex-grow: 1
 }
-.task-row-wrapper {
+.main__add-item_task-wrapper {
     display: flex;
 }
 ul {
