@@ -54,7 +54,8 @@
     list-style:none;
 }
 
-.task,.btn{
+.task,
+.btn{
     outline:none;
 }
 
